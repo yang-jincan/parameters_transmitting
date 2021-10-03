@@ -1,0 +1,2 @@
+# parameters_transmitting
+利用yaml格式文为ros下源程序里的参数提供修改配置文件；
